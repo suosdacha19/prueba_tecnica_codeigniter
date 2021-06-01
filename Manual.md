@@ -25,7 +25,7 @@ _Que cosas necesitas para instalar la app_
 _Una vez tengas instalado el software necesario_
 * El primer paso es importar la bd adjunta como pharmasan2.sql
 * El segundo paso es abrir la carpeta raiz del proyecto en vsc.
-* En el tercer paso debemos abrir la terminal de vsc, digitamos "nodemon app" y generara un link el cual podremos abrir en el navegador para ver la app
+* En el tercer paso debemos abrir la terminal de vsc, digitamos "php spark serve" y generara un link el cual podremos abrir en el navegador para ver la app
 * Para finalizar el usuario base administrador es user: a, pass: a; con este usuario podremos ingresar a la app y crear mas usuarios con los diferentes roles
 
 
